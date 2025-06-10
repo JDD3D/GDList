@@ -7,23 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=msS4JF662YQ",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": [
-        {
-            {
-            "user": "blank_plays",
+   "records": [
+         {
+            "user": "BLANK PLAYS",
             "link": "https://www.youtube.com/watch?v=B4Fq7Q29FUc",
             "percent": 100,
-            "hz": "idk"
-            
-        },
-
+            "hz": 69
+       }, 
         {
-            "user": "Inrusane",
+            "user": "inrusane",
             "link": "https://www.youtube.com/watch?v=aUlGm5lahDo",
             "percent": 100,
-            "hz": "idk"
-            
-        },
-        
+            "hz": 69
+       }
     ]
 }
