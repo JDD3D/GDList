@@ -1,0 +1,18 @@
+{
+    "id": 117386042,
+    "name": "SHADOWS",
+    "author": "lazmgeo",
+    "creators": ["lazmgeo", "professerjones"],
+    "verifier": "lazmgeo",
+    "verification": "https://www.youtube.com/watch?v=_xCTaxD8dOg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "logbot",
+            "link": "https://www.youtube.com/watch?v=_xCTaxD8dOg",
+            "percent": 100,
+            "hz": 69
+       }
+    ]
+}
