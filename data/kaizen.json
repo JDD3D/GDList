@@ -1,0 +1,26 @@
+{
+    "id": 118980391,
+    "name": "Kaizen",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/2kc9Kzvo-fE?si=2LlBnjEi3OxXWTLo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+
+        {
+            "user": "inrusane",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+        {
+            "user": "Orgen",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}
