@@ -1,1 +1,18 @@
-
+{
+    "id": 118186403,
+    "name": "LOVESICK CANNIBAL",
+    "author": "BeargerGD",
+    "creators": ["BeargerGD"],
+    "verifier": "BeargerGD",
+    "verification": "https://www.youtube.com/watch?v=8FLPJ_7QU1o",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "logbot",
+            "link": "https://medal.tv/games/geometry-dash/clips/ktVAClbdGrg2oGJSy?invite=cr-MSw5YkwsMzczMDQzNTYz",
+            "percent": 100,
+            "hz": 69
+       },
+    ]
+}
