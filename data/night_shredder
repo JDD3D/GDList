@@ -1,0 +1,24 @@
+{
+    "id": 104356534,
+    "name": "Night Shredder",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/7vgISZwaCWw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "logbot",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+          {
+            "user": "inrusane",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+    ]
+}
